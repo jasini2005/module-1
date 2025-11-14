@@ -8,5 +8,7 @@ type casting
 <img width="919" height="251" alt="image" src="https://github.com/user-attachments/assets/f5d12320-c1da-48eb-8adf-eb567d1c5aa4" />
 swap numbers
 <img width="914" height="264" alt="image" src="https://github.com/user-attachments/assets/78d5b86a-a111-4d2a-a676-c4f20374d558" />
-even orv odd
+even or odd
 <img width="947" height="290" alt="image" src="https://github.com/user-attachments/assets/3efc59c9-cb69-49e1-a509-06f5684c84d6" />
+largest of three numbers
+<img width="1823" height="530" alt="image" src="https://github.com/user-attachments/assets/7ba26c6b-8458-403c-942a-0deb43894c2a" />
