@@ -4,3 +4,5 @@ print your name
 <img width="919" height="263" alt="image" src="https://github.com/user-attachments/assets/169c45b3-3601-4547-8535-5a75ed40951f" />
 area of circle
 <img width="914" height="269" alt="image" src="https://github.com/user-attachments/assets/98946c51-fbcd-44b2-a7d0-df894a663255" />
+type casting
+<img width="919" height="251" alt="image" src="https://github.com/user-attachments/assets/f5d12320-c1da-48eb-8adf-eb567d1c5aa4" />
