@@ -14,3 +14,5 @@ largest of three numbers
 <img width="1823" height="530" alt="image" src="https://github.com/user-attachments/assets/7ba26c6b-8458-403c-942a-0deb43894c2a" />
 multiplication of tale 
 <img width="1862" height="512" alt="image" src="https://github.com/user-attachments/assets/23ee00dc-3434-4ef2-92b4-f3493214797b" />
+sun and average of elements in an array
+<img width="1701" height="510" alt="image" src="https://github.com/user-attachments/assets/a39bb585-93a2-4b46-8b32-fa5a0524498f" />
