@@ -12,3 +12,5 @@ even or odd
 <img width="947" height="290" alt="image" src="https://github.com/user-attachments/assets/3efc59c9-cb69-49e1-a509-06f5684c84d6" />
 largest of three numbers
 <img width="1823" height="530" alt="image" src="https://github.com/user-attachments/assets/7ba26c6b-8458-403c-942a-0deb43894c2a" />
+multiplication of tale 
+<img width="1862" height="512" alt="image" src="https://github.com/user-attachments/assets/23ee00dc-3434-4ef2-92b4-f3493214797b" />
