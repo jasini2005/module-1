@@ -9,10 +9,13 @@ type casting
 swap numbers
 <img width="914" height="264" alt="image" src="https://github.com/user-attachments/assets/78d5b86a-a111-4d2a-a676-c4f20374d558" />
 even or odd
-<img width="947" height="290" alt="image" src="https://github.com/user-attachments/assets/3efc59c9-cb69-49e1-a509-06f5684c84d6" />
+<img width="1226" height="572" alt="image" src="https://github.com/user-attachments/assets/f9925209-f11c-46df-8e02-f780ee41a797" />
 largest of three numbers
-<img width="1823" height="530" alt="image" src="https://github.com/user-attachments/assets/7ba26c6b-8458-403c-942a-0deb43894c2a" />
+<img width="1808" height="457" alt="image" src="https://github.com/user-attachments/assets/f447133c-dc35-4227-8073-69ce4cdd4f9d" />
 multiplication of tale 
 <img width="1862" height="512" alt="image" src="https://github.com/user-attachments/assets/23ee00dc-3434-4ef2-92b4-f3493214797b" />
 sun and average of elements in an array
 <img width="1701" height="510" alt="image" src="https://github.com/user-attachments/assets/a39bb585-93a2-4b46-8b32-fa5a0524498f" />
+studentsclass and display  students 
+<img width="1814" height="583" alt="image" src="https://github.com/user-attachments/assets/07dc1ba0-972f-4c00-b58a-6293bcf90007" />
+
